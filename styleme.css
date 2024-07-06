@@ -1,0 +1,80 @@
+/* Change the background color of the entire page */
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    margin: 10;
+    padding: 0;
+}
+
+/* Style for the header */
+header {
+    background-color: #4caf50;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+/* Style for main headings */
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+
+/* Style for secondary headings */
+h2 {
+    font-family: 'Georgia', serif;
+    color: #2e8b57;
+    font-size: 2em;
+}
+
+/* Style for tertiary headings */
+h3 {
+    font-family: 'Tahoma', sans-serif;
+    color: #4682b4;
+    font-size: 1.5em;
+}
+
+/* Style for paragraphs */
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+/* Style for the unordered list */
+ul {
+    list-style-type: square;
+    padding-left: 30px;
+}
+
+/* Style for the ordered list */
+ol {
+    padding-left: 30px;
+}
+
+/* Style for list items */
+li {
+    margin-bottom: 10px;
+}
+
+/* Style for images */
+img {
+    margin: 10px;
+    border-radius: 10px;
+}
+
+/* Style for links */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Style for the footer */
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
